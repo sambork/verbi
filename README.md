@@ -1,6 +1,6 @@
 This is a readme for Verbi, a way to learn and practice Maltese verb conjugation. The language of the app is English and Maltese.
 
-Made by Sambor Krasnodebski, a polyglot and learner of Maltese. 
+[![CodeQL](https://github.com/sambork/verbi/actions/workflows/github-code-scanning/codeql/badge.svg?branch=main)](https://github.com/sambork/verbi/actions/workflows/github-code-scanning/codeql)
 
 ## Used in the script: 
 
